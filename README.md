@@ -1,1 +1,1 @@
-Angular JS kullanılarak CRUD işlemi yapılmıştır.
+CRUD operation was performed using Angular JS.
